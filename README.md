@@ -11,3 +11,6 @@
 
 ## 🎨 The Purpose:
 ### Through "15 Days with Figma," I aim to challenge myself creatively and continuously improve my UI design abilities. This series represents an opportunity for me to dedicate focused time each day to develop my skills and explore the limitless possibilities of UI design
+
+## 🌱 Skill Enhancement:
+### While personal fulfillment is a crucial aspect, my primary goal is to enhance my UI skills. By dedicating myself to this 15-day journey, I'll have the opportunity to learn, experiment, and refine my design techniques. The process of working on small projects daily will contribute to my growth as a UI designer, allowing me to deliver more polished and effective user experiences.
